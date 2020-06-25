@@ -1,0 +1,214 @@
+{
+    "datas":[
+      {
+        "id":"5556667",
+        "name": "Meliodas",
+        "type":"Strength",
+        "portrait":"./images/portrait/meliodas.png",
+        "hp":"5874",
+        "def":"281",
+        "attack":"528",
+        "regen":"5"
+      },
+      {
+        "id":"1234567",
+        "name": "Elizabeth",
+        "type":"Health",
+        "portrait":"./images/portrait/portrait_61.png",
+        "hp":"5696",
+        "def":"270",
+        "attack":"520",
+        "regen":"10"
+      },
+      {
+        "id":"8546512",
+        "name": "Ban",
+        "type":"Health",
+        "portrait":"./images/portrait/portrait_18.png",
+        "hp":"6977",
+        "def":"270",
+        "attack":"474",
+        "regen":"10"
+      },
+      {
+        "id":"7546851",
+        "name": "Diane",
+        "type":"Speed",
+        "portrait":"./images/portrait/portrait_17.png",
+        "hp":"6578",
+        "def":"264",
+        "attack":"484",
+        "regen":"10"
+      },
+      {
+        "id":"6543218",
+        "name": "King",
+        "type":"Speed",
+        "portrait":"./images/portrait/portrait_8.png",
+        "hp":"6512",
+        "def":"281",
+        "attack":"506",
+        "regen":"0"
+      },
+      {
+        "id":"9874562",
+        "name": "Gowther",
+        "type":"Strength",
+        "portrait":"./images/portrait/portrait_34.png",
+        "hp":"5687",
+        "def":"231",
+        "attack":"561",
+        "regen":"0"
+      },
+      {
+        "id":"7531592",
+        "name": "Merlin",
+        "type":"Health",
+        "portrait":"./images/portrait/portrait_49.png",
+        "hp":"6400",
+        "def":"420",
+        "attack":"540",
+        "regen":"10"
+      },
+      {
+        "id":"8524561",
+        "name": "Escanor",
+        "type":"Health",
+        "portrait":"./images/portrait/portrait_79.png",
+        "hp":"70000",
+        "def":"380",
+        "attack":"560",
+        "regen":"0"
+      },
+      {
+        "id":"6842359",
+        "name": "Arthur",
+        "type":"Strength",
+        "portrait":"./images/portrait/portrait_74.png",
+        "hp":"6200",
+        "def":"380",
+        "attack":"520",
+        "regen":"5"
+      },
+      {
+        "id":"1357956",
+        "name": "Slater",
+        "type":"Speed",
+        "portrait":"./images/portrait/portrait_16.png",
+        "hp":"6700",
+        "def":"210",
+        "attack":"550",
+        "regen":"20"
+      },
+      {
+        "id":"1599512",
+        "name": "Elaine",
+        "type":"Health",
+        "portrait":"./images/portrait/portrait_73.png",
+        "hp":"6600",
+        "def":"400",
+        "attack":"540",
+        "regen":"10"
+      },
+      {
+        "id":"7899874",
+        "name": "Gilthunder",
+        "type":"Strength",
+        "portrait":"./images/portrait/portrait_15.png",
+        "hp":"6094",
+        "def":"330",
+        "attack":"473",
+        "regen":"5"
+      },
+      {
+        "id":"1656512",
+        "name": "Helbram",
+        "type":"Strength",
+        "portrait":"./images/portrait/portrait_63.png",
+        "hp":"6003",
+        "def":"237",
+        "attack":"565",
+        "regen":"0"
+      },
+      {
+        "id":"5646545",
+        "name": "Galland",
+        "type":"Speed",
+        "portrait":"./images/portrait/portrait_75.png",
+        "hp":"7000",
+        "def":"350",
+        "attack":"560",
+        "regen":"15"
+      },
+      {
+        "id":"5633652",
+        "name": "Guila",
+        "type":"Strength",
+        "portrait":"./images/portrait/portrait_2.png",
+        "hp":"5159",
+        "def":"220",
+        "attack":"528",
+        "regen":"0"
+      },
+      {
+        "id":"7598562",
+        "name": "Elizabeth & Hawk",
+        "type":"Speed",
+        "portrait":"./images/portrait/portrait_67.png",
+        "hp":"5324",
+        "def":"253",
+        "attack":"506",
+        "regen":"0"
+      },
+      {
+        "id":"4937182",
+        "name": "Howzer",
+        "type":"Strength",
+        "portrait":"./images/portrait/portrait_6.png",
+        "hp":"6200",
+        "def":"400",
+        "attack":"440",
+        "regen":"0"
+      },
+      {
+        "id":"9632585",
+        "name": "Dreyfus",
+        "type":"Strength",
+        "portrait":"./images/portrait/portrait_25.png",
+        "hp":"3700",
+        "def":"305",
+        "attack":"220",
+        "regen":"5"
+      },
+      {
+        "id":"1478526",
+        "name": "Cain",
+        "type":"Health",
+        "portrait":"./images/portrait/portrait_22.png",
+        "hp":"4120",
+        "def":"120",
+        "attack":"320",
+        "regen":"5"
+      },
+      {
+        "id":"8221596",
+        "name": "Griamore",
+        "type":"Strength",
+        "portrait":"./images/portrait/portrait_35.png",
+        "hp":"4300",
+        "def":"240",
+        "attack":"260",
+        "regen":"0"
+      },
+      {
+        "id":"6547895",
+        "name": "Hendrickson",
+        "type":"Speed",
+        "portrait":"./images/portrait/portrait_14.png",
+        "hp":"6700",
+        "def":"410",
+        "attack":"460",
+        "regen":"0"
+      }
+    ]
+}
